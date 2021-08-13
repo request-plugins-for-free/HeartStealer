@@ -1,0 +1,9 @@
+settings:
+  # defined by seconds!
+  # 60 seconds = 1 minute
+  ban-length: 60
+
+message:
+  ban-message: "&a%player% &estole the remaining of your health."
+  killer-message: "&eYou have stolen one heart from &a%player%&e!"
+  victim-message: "&eYou have lost one heart from &a%player%&e!"

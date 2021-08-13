@@ -1,0 +1,8 @@
+name: HeartStealer
+version: ${project.version}
+main: me.tofpu.heartstealer.HeartStealer
+api-version: 1.16
+authors: [ Tofpu ]
+commands:
+  heartstealer:
+    permission: heartstealer.reload
